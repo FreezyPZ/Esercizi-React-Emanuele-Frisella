@@ -1,0 +1,10 @@
+
+What happens if the name variable is not passed to the function?
+
+
+1)
+
+
+What happens if the name variable contains a JSX expression instead of a string?
+
+2)
