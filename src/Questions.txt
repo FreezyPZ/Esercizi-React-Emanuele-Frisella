@@ -1,0 +1,7 @@
+Components - 08
+
+1) Yes, you can use the same component more than once, it will simply print on the screen more than once.
+
+Components - 09
+
+2) 
