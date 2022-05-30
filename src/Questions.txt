@@ -1,6 +1,6 @@
 Components - 08
 
-1) Yes, you can use the same component more than once, it will simply print on the screen more than once.
+1) Yes, you can use the same component more than once, it will simply re-print the element on the screen.
 
 Components - 09
 
