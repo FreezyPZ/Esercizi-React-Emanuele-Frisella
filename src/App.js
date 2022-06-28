@@ -1,13 +1,11 @@
 import React from "react";
-import { ClickCounter } from "./ClickCounter";
-import { ClickTracker } from "./ClickTracker";
+import { Myform } from "./MyForm";
 
 export class App extends React.Component {
     render() {
         return (
             <div>
-                <ClickCounter />
-                <ClickTracker />
+               <Myform/>
             </div>
         )
     }
